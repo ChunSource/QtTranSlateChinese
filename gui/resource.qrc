@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>baidu_dll.dll</file>
+        <file>libcrypto-1_1.dll</file>
+        <file>libcurl.dll</file>
+        <file>libeay32.dll</file>
+        <file>ssleay32.dll</file>
+    </qresource>
+</RCC>
