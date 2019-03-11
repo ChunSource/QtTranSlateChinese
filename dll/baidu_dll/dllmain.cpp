@@ -11,9 +11,9 @@ using namespace std;
 
 #pragma comment(lib,"curl.lib")
 
-std::string app_id = "15549004";
-std::string api_key = "6WXNoajCyanLL6KfHfFTSfsF";
-std::string secret_key = "zzCBQnbRgXivqm9CbYSa2GLuNVmYa8Ej";
+std::string app_id = "";
+std::string api_key = "use your self";
+std::string secret_key = "";
 
 aip::Ocr client(app_id, api_key, secret_key);
 extern "C" _declspec(dllexport)void init()
