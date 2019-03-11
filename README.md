@@ -5,3 +5,5 @@
 ESC 取消截图
 
 ![img](https://github.com/ChunSource/QtTranSlateChinese/blob/master/img/ezgif.com-video-to-gif.gif) 
+
+dll文件中，请用自己的百度key。谢谢
